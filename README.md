@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio Linarez</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m finished my work on [Control de Expedientes del SENIAT](https://github.com/Ullioh/Control-de-Expedientes---SENIAT)
+- 🔭 I’m working on [Osba Company](https://osbacompany.com/)
 
 - 🌱 I’m currently learning **Nest-Next**
 
