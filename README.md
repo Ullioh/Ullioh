@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Julio Linarez</h1>
-<h3 align="center">A passionate full stack developer from Venezuela</h3>
+<h3 align="center">A passionate full-stack developer</h3>
 
 - 🔭 I’m finished my work on [Control de Expedientes del SENIAT](https://github.com/Ullioh/Control-de-Expedientes---SENIAT)
 
-- 🌱 I’m currently learning **TAILWIND AND REACT**
+- 🌱 I’m currently learning **Nest-Next**
 
-- 📫 How to reach me **gamarketp@protonmail.com**
+- 📫 How to reach me **gamarketp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
